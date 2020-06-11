@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What are my commonalities?"
-date:       2020-06-11 01:22:32 +0000
+date:       2020-06-10 21:22:33 -0400
 permalink:  what_are_my_commonalities
 ---
 
